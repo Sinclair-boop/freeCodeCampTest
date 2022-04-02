@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "sinclair",
+	"description": "mon premier projet node",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
